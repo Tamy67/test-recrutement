@@ -11,7 +11,7 @@ Ce module permet d'afficher des données fournies sous forme de tableau HTML. Il
 3. CSS3
 4. Jest
 
-## Compatibilité Serveur
+# Compatibilité Serveur
 
 Ce module est conçu pour être hautement compatible et fonctionnel. Il peut être exécuté de deux manières :
 
@@ -27,9 +27,9 @@ Le module est également disponible sur un hébergement distant via Vercel. Vous
 
 Le code est organisé de manière modulaire pour une meilleure lisibilité et maintenabilité. Il suit les bonnes pratiques de développement JavaScript.
 
-# Auteur : Tamara Evpraksina
+## Auteur : Tamara Evpraksina
 
-# Licence : Ce projet est sous licence ISC.
+## Licence : Ce projet est sous licence ISC.
 
 ## Exigences de code
 
@@ -78,7 +78,7 @@ Après l'application des paramètres de filtrage, le module affichera les donné
 
 Des tests unitaires sont inclus dans le projet pour garantir son bon fonctionnement. Vous pouvez exécuter les tests en utilisant la commande suivante : `npm test`
 
-# Outils utilisés
+### Outils utilisés
 
 Jest : Framework de test JavaScript.
 Jest Fetch Mock : Utilisé pour les tests de fonctions liées à Fetch.
