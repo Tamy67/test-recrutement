@@ -1,0 +1,37 @@
+{
+    "name": "media",
+    "version": "1.0.0",
+    "description": "Projet de test technique pour Prisma Media. Implémentation d'un tableau HTML filtrable en pur JavaScript ES6+",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+        "start": "webpack-dev-server --mode development",
+        "test": "jest"
+    },
+    "keywords": [
+        "JavaScript",
+        "HTML",
+        "table",
+        "filtering",
+        "URL",
+        "Query Parameters",
+        "ES6"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tamy67/media.git"
+    },
+    "author": "Tamara Evpraksina",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.23.2",
+        "@babel/preset-env": "^7.23.2",
+        "babel-jest": "^29.7.0",
+        "jest": "^29.7.0",
+        "jest-environment-jsdom": "^29.7.0",
+        "jest-fetch-mock": "^3.0.3",
+        "webpack": "^5.89.0",
+        "webpack-cli": "^5.1.4",
+        "webpack-dev-server": "^4.15.1"
+    }
+}
