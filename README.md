@@ -11,6 +11,18 @@ Ce module permet d'afficher des données fournies sous forme de tableau HTML. Il
 3. CSS3
 4. Jest
 
+## Compatibilité Serveur
+
+Ce module est conçu pour être hautement compatible et fonctionnel. Il peut être exécuté de deux manières :
+
+### Serveur Local
+
+Le module a été testé et est entièrement fonctionnel sur un serveur local. Vous pouvez démarrer le serveur local en suivant les instructions dans la section "Démarrage".
+
+### Hébergement Distant
+
+Le module est également disponible sur un hébergement distant via Vercel. Vous pouvez accéder au module fonctionnel à cette adresse : [Test Recrutement sur Vercel](https://test-recrutement-nine.vercel.app/)
+
 # Structure du code
 
 Le code est organisé de manière modulaire pour une meilleure lisibilité et maintenabilité. Il suit les bonnes pratiques de développement JavaScript.
