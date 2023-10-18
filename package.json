@@ -1,5 +1,5 @@
 {
-    "name": "media",
+    "name": "test-recrutement",
     "version": "1.0.0",
     "description": "Projet de test technique pour Prisma Media. Implémentation d'un tableau HTML filtrable en pur JavaScript ES6+",
     "main": "main.js",
