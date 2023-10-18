@@ -27,9 +27,13 @@ Le module est également disponible sur un hébergement distant via Vercel. Vous
 
 Le code est organisé de manière modulaire pour une meilleure lisibilité et maintenabilité. Il suit les bonnes pratiques de développement JavaScript.
 
-## Auteur : Tamara Evpraksina
+### Auteur
 
-## Licence : Ce projet est sous licence ISC.
+Tamara Evpraksina
+
+### Licence
+
+Ce projet est sous licence ISC.
 
 ## Exigences de code
 
@@ -74,7 +78,7 @@ Exemples de requêtes URL avec des paramètres de filtrage :
 
 Après l'application des paramètres de filtrage, le module affichera les données sous forme de tableau HTML avec les colonnes suivantes : `Nom`, `Prénom`, `Âge`, `Couleur des yeux`,`Email`, `Company` et `Balance`.
 
-### Tests
+## Tests
 
 Des tests unitaires sont inclus dans le projet pour garantir son bon fonctionnement. Vous pouvez exécuter les tests en utilisant la commande suivante : `npm test`
 
