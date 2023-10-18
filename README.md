@@ -1,5 +1,3 @@
-# media
-
 # Projet de monétisation - Module d'affichage de données dans un tableau HTML avec filtrage
 
 # Introduction
@@ -33,7 +31,7 @@ Avant de procéder à l'installation, assurez-vous que Node.js est installé sur
 
 Pour installer le module, suivez ces étapes :
 
-1. Clonez le dépôt du projet avec la commande `git clone git@github.com:Tamy67/media.git`.
+1. Clonez le dépôt du projet avec la commande `git clone git@github.com:Tamy67/test-recrutement.git`.
 2. Accédez au répertoire du projet avec la commande `cd media`.
 3. Installez les dépendances avec la commande `npm install`.
 
